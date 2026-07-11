@@ -5,7 +5,7 @@ DevBroker is a real-time message orchestration laboratory engineered using React
 
 ## Preview
 --------------------------------------------------------------------------------------
-![]()
+![](dev)
 
 ##  Technical Architecture Overview
 --------------------------------------------------------------------------------------
