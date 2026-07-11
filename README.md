@@ -5,7 +5,7 @@ DevBroker is a real-time message orchestration laboratory engineered using React
 
 ## Preview
 --------------------------------------------------------------------------------------
-
+!
 ##  Technical Architecture Overview
 *  **Concurrent Event Dispatches:** Implements state arrays iteration matrices to automatically scan and update subscriber records synchronously upon registering incoming events.
 *  **Defensive Payload Compilers:** Intercepts string parsing breaks via defensive error barriers, keeping configuration tracks isolated from execution payload failures.
