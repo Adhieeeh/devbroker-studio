@@ -18,3 +18,5 @@ DevBroker is a real-time message orchestration laboratory engineered using React
 
 1. Download package assets: `npm install`
 2. Launch workspace profiling HUD: `npm run dev`
+
+----------------------------------------------------------------------------------------
